@@ -11,6 +11,6 @@ function draw() {
 			}
 		}
 	};
-	img.src = 'img/frente.png';
+	img.src = 'img/1.png';
 }
 	
