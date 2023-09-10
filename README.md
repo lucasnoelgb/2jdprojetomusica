@@ -20,3 +20,5 @@ para fazer a cena funcionar teremos a classe cenario que terá um tamanho, e for
 planejando fazer o jogador interagir com ele, então resolvemos colocar o metodo de interação. temos então o Veiculo com seu atributos definindo o tipo dele sua posição X, Y e Z, e então a velocidade.
 com metodo de interação que tera com o jogador e seu objetivo principal a movimentação. por ultimo temos a mina que tera como objetivo eliminar o jogador com suas explosões, tera seu tamanho e posições definidas quase 
 aleatoriamente.
+
+![image](https://github.com/lucasnoelgb/2jdprojetomusica/assets/127865166/6a73cbc7-52e5-4ac8-a654-1af2695f8094)
