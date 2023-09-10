@@ -1,12 +1,14 @@
 # 2jdprojetomusica
 
 Diagrama.Canvas
+
 no diagrama temos a classe jogador que representa o personagem do jogador que tera de ter sua aparencia, nome, e posições X e Y.
 Composto de metodos de interação e movimentação. também temos o NPC com a mesma logica e atribiutos porem sem tais metodos de movimentação.
 para compor a cena pensamos na classe cenario que tera sua forma, tamanho, decorações e posição X e Y. com metodos de interação.
 para finalizar temos a classe do carro que tera de ter um tipo de carro, sua aparencia, tamanho e posição X e Y com apenas o metodo de movimentação
 que sera feita pelo jogador.
 
+![image](https://github.com/lucasnoelgb/2jdprojetomusica/assets/127865166/0ef6353d-4179-47da-8c9c-f34d474ee22f)
 
 
 Diagrama Unity
