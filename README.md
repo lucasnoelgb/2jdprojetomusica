@@ -22,7 +22,8 @@ planejando fazer o jogador interagir com ele, então resolvemos colocar o metodo
 com metodo de interação que tera com o jogador e seu objetivo principal a movimentação. por ultimo temos a mina que tera como objetivo eliminar o jogador com suas explosões, tera seu tamanho e posições definidas quase 
 aleatoriamente.
 
-![image](https://github.com/lucasnoelgb/2jdprojetomusica/assets/127865166/6a73cbc7-52e5-4ac8-a654-1af2695f8094)
+![image](https://github.com/lucasnoelgb/2jdprojetomusica/assets/127865166/938842cc-4f5f-4865-92df-4477d0424845)
+
 
 
 Diagrama caso de uso Canvas
