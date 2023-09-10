@@ -24,7 +24,7 @@ aleatoriamente.
 ![image](https://github.com/lucasnoelgb/2jdprojetomusica/assets/127865166/6a73cbc7-52e5-4ac8-a654-1af2695f8094)
 
 
-
+Diagrama caso de uso Canvas
 
 
 ![image](https://github.com/lucasnoelgb/2jdprojetomusica/assets/127865166/aeaed262-cb95-4a6d-b5ee-0bebaea84546)
