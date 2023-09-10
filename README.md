@@ -8,7 +8,8 @@ para compor a cena pensamos na classe cenario que tera sua forma, tamanho, decor
 para finalizar temos a classe do carro que tera de ter um tipo de carro, sua aparencia, tamanho e posição X e Y com apenas o metodo de movimentação
 que sera feita pelo jogador.
 
-![image](https://github.com/lucasnoelgb/2jdprojetomusica/assets/127865166/0ef6353d-4179-47da-8c9c-f34d474ee22f)
+![image](https://github.com/lucasnoelgb/2jdprojetomusica/assets/127865166/f6027fc5-3ef9-4d4e-ba6f-218b0ae9b3a5)
+
 
 
 Diagrama Unity
