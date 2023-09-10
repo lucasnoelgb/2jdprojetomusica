@@ -28,3 +28,9 @@ Diagrama caso de uso Canvas
 
 
 ![image](https://github.com/lucasnoelgb/2jdprojetomusica/assets/127865166/aeaed262-cb95-4a6d-b5ee-0bebaea84546)
+
+
+
+Diagrama caso de uso Unity
+
+![image](https://github.com/lucasnoelgb/2jdprojetomusica/assets/127865166/8d885590-44de-4872-b596-7efbb2155372)
