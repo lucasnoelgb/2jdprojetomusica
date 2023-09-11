@@ -19,6 +19,11 @@ que sera feita pelo jogador.
 
 
 
+
+
+
+
+
 Diagrama Unity
 
 tamos a classe do jogador que tera sua posição X, Y e Z para sua movimentação, onde também tera uma velociade X. com metodos então de movimentação, interação.
@@ -34,10 +39,22 @@ aleatoriamente.
 
 
 
+
+
+
+
+
+
+
 Diagrama caso de uso Canvas
 
 
 ![image](https://github.com/lucasnoelgb/2jdprojetomusica/assets/129121307/73461a70-2386-40eb-8f88-94ad5e410f3f)
+
+
+
+
+
 
 
 
