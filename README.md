@@ -37,7 +37,8 @@ aleatoriamente.
 Diagrama caso de uso Canvas
 
 
-![image](https://github.com/lucasnoelgb/2jdprojetomusica/assets/127865166/aeaed262-cb95-4a6d-b5ee-0bebaea84546)
+![image](https://github.com/lucasnoelgb/2jdprojetomusica/assets/129121307/73461a70-2386-40eb-8f88-94ad5e410f3f)
+
 
 
 
