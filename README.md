@@ -1,5 +1,10 @@
 # 2jdprojetomusica
 
+Favor ler os diagramas no modo branco do GitHub
+
+
+
+
 Diagrama.Canvas
 
 no diagrama temos a classe jogador que representa o personagem do jogador que tera de ter sua aparencia, nome, e posições X e Y.
