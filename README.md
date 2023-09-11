@@ -14,7 +14,7 @@ para finalizar temos a classe do carro que tera de ter um tipo de carro, sua apa
 que sera feita pelo jogador.
 
 
-<img src="diagramas/Diagrama de classe Canvas.draw.svg" width="750px" height="750px"/>
+<img src="diagramas/Diagrama de classe canvas.drawio.svg" width="750px" height="750px"/>
 
 
 
@@ -34,7 +34,8 @@ planejando fazer o jogador interagir com ele, então resolvemos colocar o metodo
 com metodo de interação que tera com o jogador e seu objetivo principal a movimentação. por ultimo temos a mina que tera como objetivo eliminar o jogador com suas explosões, tera seu tamanho e posições definidas quase 
 aleatoriamente.
 
-![image](https://github.com/lucasnoelgb/2jdprojetomusica/assets/129121307/4469887d-5fca-4db0-8057-8848d1a33c38)
+<img src="diagramas/diagrama de classe Unity.drawio.svg" width="750px" height="750px"/>
+
 
 
 
@@ -49,7 +50,8 @@ aleatoriamente.
 Diagrama caso de uso Canvas
 
 
-![image](https://github.com/lucasnoelgb/2jdprojetomusica/assets/129121307/73461a70-2386-40eb-8f88-94ad5e410f3f)
+<img src="diagramas/Diagrama caso de uso canvas.drawio.svg" width="750px" height="750px"/>
+
 
 
 
@@ -61,6 +63,6 @@ Diagrama caso de uso Canvas
 
 Diagrama caso de uso Unity
 
-![image](https://github.com/lucasnoelgb/2jdprojetomusica/assets/129121307/f46311b9-1aca-4e6b-a38c-334ebb3b8ce1)
+<img src="diagramas/Diagrama caso de uso Unity.drawio.svg" width="750px" height="750px"/>
 
 
