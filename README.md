@@ -14,7 +14,7 @@ para finalizar temos a classe do carro que tera de ter um tipo de carro, sua apa
 que sera feita pelo jogador.
 
 
-<img src="Diagrmas/diagrama de classe Canvas draw.svg" width="750px" height="750px"/>
+<img src="diagramas/Diagrama de classe Canvas.draw.svg" width="750px" height="750px"/>
 
 
 
