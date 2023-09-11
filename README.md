@@ -14,7 +14,8 @@ para finalizar temos a classe do carro que tera de ter um tipo de carro, sua apa
 que sera feita pelo jogador.
 
 
-![diagrama](https://github.com/lucasnoelgb/2jdprojetomusica/assets/127865166/c9649dae-f941-48bb-9cf6-466617984f27)
+![image](https://github.com/lucasnoelgb/2jdprojetomusica/assets/129121307/a5dd8e55-2cb2-4980-969b-d374064eff23)
+
 
 
 
