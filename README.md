@@ -2,6 +2,7 @@
 <h3> Lucas Noel e Robert Caio</h3>
 
 Favor ler os diagramas no modo branco do GitHub
+<img src="img/v.mkv" width="600px" height="300px">
 
 
 
